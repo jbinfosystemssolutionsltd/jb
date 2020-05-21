@@ -6,19 +6,8 @@ div{
 
   padding-left: 2%;
 }
-@media (max-width: 1028px) {
-
-  div {
-    text-align: center;
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
   }
-  p{
-    text-align: left;
-    padding-left: 5%;
-    font-size: 3rem;
-  }
-
-
-}
-.container-fluid{
-  padding: 7% 15%;
 }
