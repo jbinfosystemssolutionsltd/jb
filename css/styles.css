@@ -10,13 +10,10 @@ div{
 @media (max-width: 1028px) {
 
   body {
-    text-align: center;
-  }
-  p{
     text-align: left;
-   
-        width: 100%;
+     width: 100%;
   }
+  
 
 .img {
     position: static;
