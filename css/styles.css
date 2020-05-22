@@ -20,6 +20,10 @@ div{
 
 
 }
+.img {
+    position: static;
+    transform: rotate(0);
+  }
 .container-fluid{
   padding: 7% 15%;
 }
