@@ -10,15 +10,20 @@ div{
 @media (max-width: 1028px) {
 
   body {
-    text-align: left;
-     width: 100%;
+    text-align: center;
   }
+  p{
+    text-align: left;
   
-
-.img {
+    
+    width: 100%;
+  }
+  .img {
     position: static;
     transform: rotate(0);
   }
+
+
 }
 
 .container-fluid{
